@@ -1,5 +1,3 @@
-# surrey-sports-park
-
 # Surrey Sports Park Website Enhancement
 
 A front-end development project to improve the existing Surrey Sports Park website with better features and responsive design.
@@ -12,7 +10,6 @@ I worked on enhancing the Surrey Sports Park website as part of a group project,
 - CSS3
 - Bootstrap
 - Flask
-- MySQL
 
 ## Installation & Setup
 
@@ -24,7 +21,6 @@ I worked on enhancing the Surrey Sports Park website as part of a group project,
 2. **Setup Environment**
    ```
    pip install Flask
-   pip install pymysql
    ```
 
 3. **Run the Project**
